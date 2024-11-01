@@ -17,4 +17,8 @@ public class Equipo {
     public JugadorHockey[] getJugadores() {
         return jugadores;
     }
+
+    public int getCANTIDAD_JUGADORES() {
+        return CANTIDAD_JUGADORES;
+    }
 }

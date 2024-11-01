@@ -47,13 +47,13 @@ public class Executable {
 
 			switch (option) {
 					case 1:
-
+                    controladora.fixture();
 						break;
 					case 2:
-
+                    controladora.preloadInfo();
 						break;
 					case 3:
-
+                    controladora.realizarPartido();
 						break;
 					case 4:
 						flag = true;

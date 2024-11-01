@@ -1,6 +1,6 @@
 package model;
 
-public  Persona {
+public class  Persona {
      String nombre;
      int edad;
 
